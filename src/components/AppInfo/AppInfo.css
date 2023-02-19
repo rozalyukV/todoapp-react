@@ -1,0 +1,13 @@
+.AppInfo {
+    background-color: #7B68EE;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+    color: #fff;
+}
+
+.AppInfo h1 {
+    font-size: 48px;
+    text-align: center;
+    margin: 25px;
+  }
